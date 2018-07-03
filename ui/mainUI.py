@@ -77,6 +77,40 @@ class Ui_window(object):
         self.customScoreLabel.show()
         QApplication.processEvents()  # redraw UI
 
+    def extractAllAndCompare(self):
+        names = ["times of india", "the hindu", "guardian", "new york times", "google news", "cnn",
+                 "reddit news", "reddit world news", "telegraph", "bbc"]
+
+        outputfiles = ""
+
+        import datetime, os
+        today = str(datetime.date.today())
+        directory = "./data/allFiles/" + today
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        storageFile = directory + "/allValueFiles.txt"
+        if not os.path.exists(storageFile):
+            e = multiprocessing.Event()  # To synchronize progress bar
+            queue = multiprocessing.Queue()  # To get score file from threaded process
+            from multiprocessing.dummy import Pool as ThreadPool
+            from itertools import repeat
+            pool = ThreadPool(4)
+            results = pool.starmap(extractorRunner.runScrapper, zip(names, repeat(e), repeat(queue)))
+            pool.close()
+            pool.join()
+
+            for i in range(10):
+                outputfiles += " " + queue.get()
+
+            with open(storageFile, "w") as temp:
+                temp.write(outputfiles)
+
+        QApplication.processEvents()
+        # Show comparision graph
+        outputProcess = subprocess.Popen("python -m ui.comparingAll " + storageFile)
+        outputProcess.wait()
+        QApplication.processEvents()
+
     # function to call after entering custom headline
     def start_call(self):
         headline = self.lineEdit.text()
@@ -239,6 +273,19 @@ class Ui_window(object):
         self.line.setLineWidth(20)
         self.line.setFrameShape(QtGui.QFrame.HLine)
         self.line.setObjectName(_fromUtf8("line"))
+
+        # Extract all and conclude button
+        self.extractAllButton = QtGui.QPushButton(window)
+        self.extractAllButton.setGeometry(QtCore.QRect(250, 428, 300, 30))
+        self.extractAllButton.setStyleSheet(_fromUtf8("color:grey; font-size:14pt; font-weight:600; background:#a8ffe9; \
+                                                         font-family:'Lucida Calligraphy';border-style: outset;\
+                                                         border-width: 2px;border-radius: 15px;border-color:grey;\
+                                                        padding: 4px;"))
+        self.extractAllButton.setAutoDefault(True)
+        self.extractAllButton.isCheckable()
+        self.extractAllButton.setText("Extract All And Compare")
+        self.extractAllButton.setObjectName(_fromUtf8("extractAllButton"))
+        self.extractAllButton.clicked.connect(self.extractAllAndCompare)
 
         # Text Input Box
         self.lineEdit = QtGui.QLineEdit(window)

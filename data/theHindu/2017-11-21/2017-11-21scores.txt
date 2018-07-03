@@ -1,0 +1,202 @@
+High Court expects ECI to conduct bypoll for R.K. Nagar before December 31
+>> 0.275
+Five killed, four injured in road mishap near Kalaburagi
+>> -1.6875
+Unidentified body found at bus-stand
+>> -0.09375
+Youth dies when trying to board train
+>> -0.7150000000000001
+Youth arrested in paramour’s murder case
+>> -0.375
+UAV crashes in Kochi
+>> 0.0
+Convict commits suicide in Kalaburagi prison
+>> -0.65
+Bihar BJP chief Nityanand Rai feels ‘sorry’ for his controversial comment
+>> 0.625
+Sri Lankan PM Wickremesinghe at Kollur temple to offer prayers
+>> 0.0
+Nine labourers killed near Pune as tunnel lift cable snaps
+>> -0.5
+Modi credits Swaraj and team for re-election of Justice Bhandari to ICJ
+>> 0.75
+Imphal newspapers run blank editorials in support of 'Poknapham'
+>> -0.53125
+Three LeT militants killed in Handwara encounter
+>> -0.5
+Farmer’s death: forum seeks action
+>> -0.3125
+Farmers complain against unit
+>> -0.75
+‘Mark maritime border to curb mid-sea conflicts’
+>> 0.0
+Tamilisai visits eateries to check GST compliance
+>> 0.708333333
+‘BJP employing coercive tactics, but won’t gain foothold in T.N.’
+>> 0.75
+Battered bypass road: Poonamallee residents slap police case against NHAI
+>> -1.1875
+Nothing illegal inmeetings: Governor
+>> 0.0
+RTC will come out of red by end of FY 17: Minister
+>> 0.0625
+Bhogapuram airport will take off in 4 years: Ashok
+>> -0.22499999999999998
+‘Chalo Assembly’ foiled; many SCS supporters arrested
+>> -0.5
+Father, mother, boss: Vivek Jayaraman, a son to three women
+>> 0.375
+Trisha becomes UNICEF celebrity advocate
+>> -0.5
+List measures against stalking: HC to govt.
+>> 0.0
+Two injured in elephant attack
+>> -1.0
+Experts call for study on causes of sinkholes
+>> 0.25
+Over 8,000 building plans pending with local bodies
+>> 0.0
+Encouraging people touse public transport
+>> 0.625
+A simpler route to capturing student data for SSLC exams
+>> -0.125
+Autonomy will remain unaffected: Minister
+>> 0.25
+HC adjourns hearing on PIL on strike by doctors
+>> -0.125
+‘Keep Kannada University out of University Amendment Bill’
+>> -0.125
+Alert crew, doctors tackle mid-air crisis
+>> 0.291666667
+Ganapathy probe: BJP stages protest in Legislative Assembly
+>> 0.0
+Karnataka legislature session: Where are all the Ministers?
+>> 0.4375
+Direct Rice Sowing method proves a success in Ballari
+>> -0.125
+Padmavati row: Kannada artistes stand by Deepika Padukone
+>> -0.21875
+Will step up security at Deepika’s house should threat perception rise: Police
+>> 1.1875
+Special team to probe stock trading fraud in Srikakulam
+>> 0.40625
+‘No eggs in noon meal’: Stalin slams State govt.
+>> 0.25
+‘Corrupt’ registration dept. gets HC’s goat
+>> 0.125
+‘Children have a right to access justice’
+>> -0.03846153800000002
+Did disqualified legislatorsthreaten to defy whip: HC
+>> -0.375
+Students block roads demanding resumption of bus services
+>> -0.708333333
+Server problem hits vehicle registration in Karnataka
+>> -0.625
+78,450 beneficiaries to get LPG connection under Anila Bhagya in Kalaburagi
+>> -0.125
+An app to get tiger numbers right
+>> 0.21153846200000004
+SVIMS project bags prestigious BMJ award
+>> 1.375
+CM ready to discuss special category status in Assembly
+>> 0.71875
+Oral health, a neglected area: DCI member
+>> 0.25
+‘Thanal’ to help children in distress
+>> -0.40625
+TDB officials to have food at Annadana Mandapam
+>> -0.75
+Gates Foundation to help A.P. in ODF goal
+>> 0.0
+Animal disease control drive to be launched
+>> 0.34375
+Decks cleared for Rahul’s elevation as Congress chief
+>> 0.625
+All dues of SHG groups would be paid, promises Jagan
+>> 1.2708333330000001
+TS Govt. to promote cultivation of stumpy palm trees
+>> 0.5
+Aadhaar data was never breached: UIDAI
+>> -0.875
+TDB president sees smear campaign
+>> -0.625
+Vishwakarmas seek job quota
+>> 0.0
+Music legend M.D. Ramanathan set to get a memorial in Palakkad
+>> 1.25
+Meerut tense over murder of RSS cadre
+>> 0.0
+China condemns Kovind’s Arunachal trip
+>> 0.5
+Cong.-PAAS pact in jeopardy
+>> -0.25
+BJP releases third list of candidates
+>> 0.0
+Rigid alliances will be avoided: India
+>> -0.08333333300000001
+Supreme Court allows Karti to travel abroad
+>> 0.416666667
+Priya Ranjan Dasmunsi passes away
+>> -0.333333333
+BJP serves showcause to leader for bounty offer
+>> 0.0
+Consumer panel upholds order against Maruti
+>> 0.0
+Youth takes to Twitter seeking info on abandoned baby
+>> -0.125
+ISRO opens doors to private sector
+>> -0.125
+India hosts intl. congress on military medicine
+>> 0.0
+Gurung suspended from GJM
+>> -0.375
+Advocate seeks compensation for assault by police
+>> -0.208333333
+SRK declares open IFFI 2017 with 'Cinema is a balm of love' message
+>> 0.07499999999999996
+Plea seeks increase in Tamil books in libraries
+>> -0.125
+CPI(M)-CPI tiff hits a new low
+>> 0.2375
+JD(U) State unit likely to form new party
+>> 1.125
+Adityanath ridicules Rahul’s temple visits
+>> 0.0
+Yagasala pujas performed at Periyanayaki Amman Temple
+>> 0.0
+CRPF offers helpline to let J&K local militants return
+>> 0.0
+Gujarat polls: NCP to contest all seats, talks with Congress fail
+>> 0.3125
+Siddaramaiah cancelled power MoU, says Chattisgarh CM
+>> -0.5
+Let Censor Board certify Padmavati: SC
+>> 0.3125
+Plea in HC seeking removal of Pinarayi as CM
+>> -0.125
+Water released into PTR Main Channel
+>> 0.25
+Ayodhya: Shia Board submits ‘settlement’ before SC
+>> 0.0
+Bus Day
+>> 0.0
+Differently-abed couples get married in mass wedding ceremony in Tamil Nadu
+>> 0.875
+Mallya extradition hearing confirmed for 8 days from December 4
+>> 0.0
+‘Animal rights activists should also think about human beings’
+>> 0.375
+Probe into nexus in award of HDMC tenders
+>> 0.375
+Not upset with Tharoor’s tongue-in-cheek remark: Miss World Manushi Chhillar
+>> -0.8194444439999999
+Rajasthan CM visits Kollur, Udupi temples
+>> 0.0
+50 new taluks by January
+>> 0.375
+State govt. to provide police security to Deepika Padukone, family
+>> 0.875
+Govind Karjol files breach of privilege complaint against Minister Thimmapur
+>> 0.1875
+Depression, exams may also be causes for children’s suicides: Govt to SC
+>> -0.03125
